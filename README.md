@@ -1,7 +1,7 @@
 # Chicago Crime and Weather
 
-**Author**: Jaime M. Shaker <br />
-**Email**: jaime.m.shaker@gmail.com <br />
+**Author**: Jeba Joshua <br />
+**Email**: livingstonjosh27@gmail.com <br />
 **Website**: https://www.shaker.dev <br />
 **LinkedIn**: https://www.linkedin.com/in/jaime-shaker/  <br />
 
