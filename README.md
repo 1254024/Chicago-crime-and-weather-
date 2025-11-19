@@ -2,8 +2,6 @@
 
 **Author**: Jeba Joshua <br />
 **Email**: livingstonjosh27@gmail.com <br />
-**Website**:  <br />
-**LinkedIn**: https://www.linkedin.com/in/jaime-shaker/  <br />
 
 :exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
 
